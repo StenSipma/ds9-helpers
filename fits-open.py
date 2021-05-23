@@ -3,7 +3,6 @@ import os
 from sys import argv
 
 from pyds9 import DS9
-from astropy.io import fits
 
 
 class DS9Viewer(DS9):
